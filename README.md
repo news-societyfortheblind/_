@@ -18,15 +18,15 @@ How I got to this conclusion:
 
 1. Subscribers
 
-  Any activity or project that subscribers can benefit from.
+   Any activity or project that subscribers can benefit from.
 
 2. Administration
 
-  Mostly record keeping for the grant (i.e., volunteer times, subscriber numbers, etc.).
+   Mostly record keeping for the grant (i.e., volunteer times, subscriber numbers, etc.).
 
 3. Volunteers
 
-  Any other deed not covered above.
+   Any other deed not covered above.
 
 ### Content priorities
 
@@ -34,23 +34,24 @@ To break it down in terms of content:
 
 1. **Store sale flyers**
 
-  Subscribers are relying on these, and they should be on time. Unfortunately, these are also the least favored by volunteers, therefore communications with anyone who **reads them acceptably well** and **on time** should be prioritized.
+   Subscribers are relying on these, and they should be on time. Unfortunately, these are also the least favored by volunteers, therefore communications with anyone who **reads them acceptably well** and **on time** should be prioritized.
 
 2. **Old-time radio shows** (and TODO: old TV shows with audio descriptions)
 
-  These are static content scavanged from the web from the golden age of radio, and the favorite of the majority of our subscribers (most of whom are seniors). Our selection is probably the most extensive of all the other reading services currently active, but it is still missing a lot, and TR2's user interface is too primitive to make this a nice listening experience.
+   These are static content scavanged from the web from the golden age of radio, and the favorite of the majority of our subscribers (most of whom are seniors). Our selection is probably the most extensive of all the other reading services currently active, but it is still missing a lot, and TR2's user interface is too primitive to make this a nice listening experience.
 
 3. **Magazines by Julie**:
-  + Mental Floss
-  + Atlas Obscura
-  + Wild West
-  + Civil War Times
 
-  The same TR2 usability notes apply as above.
+   + Mental Floss
+   + Atlas Obscura
+   + Wild West
+   + Civil War Times
+
+   The same TR2 usability notes apply as above.
 
 4. Anything else
 
-  Ironically, Access News' least important content right now are the articles of daily newspapers, thus tending to volunteers who read only these should take up as little of our time as possible (however rude this may sound). The articles are still important because people do listen to them from time to time - and we are working on improving usability to promote this - but we have to cater to the current needs.
+   Ironically, Access News' least important content right now are the articles of daily newspapers, thus tending to volunteers who read only these should take up as little of our time as possible (however rude this may sound). The articles are still important because people do listen to them from time to time - and we are working on improving usability to promote this - but we have to cater to the current needs.
 
 ### Project priorities]
 
