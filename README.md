@@ -40,7 +40,9 @@ To break it down in terms of content:
 
    These are static content scavanged from the web from the golden age of radio, and the favorite of the majority of our subscribers (most of whom are seniors). Our selection is probably the most extensive of all the other reading services currently active, but it is still missing a lot, and TR2's user interface is too primitive to make this a nice listening experience.
 
-3. **Magazines by Julie**:
+3. **SacBee sports listings by Carla**
+
+4. **Magazines by Julie**:
 
    + Mental Floss
    + Atlas Obscura
@@ -49,7 +51,7 @@ To break it down in terms of content:
 
    The same TR2 usability notes apply as above.
 
-4. Anything else
+5. Anything else
 
    Ironically, Access News' least important content right now are the articles of daily newspapers, thus tending to volunteers who read only these should take up as little of our time as possible (however rude this may sound). The articles are still important because people do listen to them from time to time - and we are working on improving usability to promote this - but we have to cater to the current needs.
 
