@@ -1,4 +1,4 @@
-## Priorities
+# Priorities
 
 To sum it up front given our current circumstances:
 
@@ -14,7 +14,7 @@ Which means that some of the volunteer communications can be deferred to certain
 
 How I got to this conclusion:
 
-### Main priorities
+## Main priorities
 
 1. Subscribers
 
@@ -28,7 +28,7 @@ How I got to this conclusion:
 
    Any other deed not covered above.
 
-### Content priorities
+## Content priorities
 
 To break it down in terms of content:
 
@@ -55,7 +55,7 @@ To break it down in terms of content:
 
    Ironically, Access News' least important content right now are the articles of daily newspapers, thus tending to volunteers who read only these should take up as little of our time as possible (however rude this may sound). The articles are still important because people do listen to them from time to time - and we are working on improving usability to promote this - but we have to cater to the current needs.
 
-### Project priorities]
+## Project priorities]
 
 All this translates to the following project priorities:
 
@@ -75,14 +75,14 @@ The above list doesn't mean that lower priority projects cannot be worked on in 
 
 Research project-specific topics, and learning related technologies may also ignore this order as technologies, solutions can overlap in different projects.
 
-#### Project-specific notes
+### Project-specific notes
 
-##### Documentation
+#### Documentation
 
-##### TR2
+#### TR2
 
-##### Content-reading automation
+#### Content-reading automation
 
-##### Alternative delivery methods to subscribers
+#### Alternative delivery methods to subscribers
 
 vim: set tabstop=2 shiftwidth=2 expandtab:
